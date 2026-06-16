@@ -16,6 +16,8 @@
 
 종료하고 싶으면 q를 누르면 된다
 
+빨간 테두리 : 가능한 경로가 없을 경우
+
 ## Demo
 
 [![Demo Video](https://img.youtube.com/vi/k2qZKz-DKCE/maxresdefault.jpg)](https://www.youtube.com/shorts/k2qZKz-DKCE)
