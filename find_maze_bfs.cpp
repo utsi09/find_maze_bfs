@@ -111,7 +111,7 @@ int main(){
         }   
         imshow("FIND MAZE", img);
         if(waitKey(0) == 'q'){
-            rectangle(img, Rect(0,0,900,900), Scalar(255,255,255),FILLED); //새 블록 파란색
+            rectangle(img, Rect(0,0,900,900), Scalar(255,255,255),FILLED); 
             putText(img, "Thank you!! (developed by taewook)", Point(5*cell, 15*cell), FONT_HERSHEY_SIMPLEX, 1, Scalar(0, 0, 0), 1.5);
             imshow("FIND MAZE", img);
             waitKey(0);
